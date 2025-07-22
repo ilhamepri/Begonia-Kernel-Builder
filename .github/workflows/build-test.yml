@@ -128,7 +128,7 @@ jobs:
       - name: "🌟 Clone kernel source => (${{ env.KERNEL_REPO }})"
         run: |
           git clone --recursive --depth=1 -j $(nproc) --branch $KERNEL_BRANCH $KERNEL_REPO $KERNEL_NAME
-          if [ "$KNAME" = "power" ] && [ "withRoot" = "sukisu" ] && [ "withKPM" = "true" ]; then
+          if [ "$KNAME" = "power" ] && [ "$withRoot" = "sukisu" ] && [ "$withKPM" = "true" ]; then
             cd $KERNEL_NAME
             git reset --hard 51f36dd79ef0e972d1c4bb5fde235c5f2705f112
             cd ..
