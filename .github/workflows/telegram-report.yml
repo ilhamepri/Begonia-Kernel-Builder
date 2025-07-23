@@ -105,11 +105,11 @@ jobs:
           ▫️ *KernelSU-Next:* ${{ env.KERNELSUN_VERSION }}
           ▫️ *SukiSU-Ultra:* ${{ env.SUKISU_VERSION }}
           ▫️ *APatch:* Supported
-            [Non-patch variants of Power and Nova kernels, except Astera kernel, support APatch.]
+            [Non-patch variants of Nova kernels, except Astera and Power kernel, support APatch.]
 
           ▫️ *SUSFS:* v1.5.9 Supported
           ▫️ *KPM:* Supported
-            [Power and Nova kernels support KPM except Astera kernel.]
+            [Nova kernels support KPM except Astera and Power kernel.]
           ▫️ *Mountify:* Supported
           ▫️ *Release:* ${{ env.RELEASE_NAME }}
 
