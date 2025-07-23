@@ -95,23 +95,27 @@ jobs:
 
           MSG="🚀 *For all Kernels ROOT Version is Updated!* 🔥
 
+          ```Kernels
           ▫️ *Kernel:* 4.14.336.Astera
           ▫️ *Kernel:* 4.14.355.Power
           ▫️ *Kernel:* 4.14.336.Nova
+          ```
 
+          ```
           ▫️ *Device:* Begonia
           ▫️ *Non-Patch Variant*
           ▫️ *KernelSU:* ${{ env.KernelSU_VERSION }}
           ▫️ *KernelSU-Next:* ${{ env.KERNELSUN_VERSION }}
           ▫️ *SukiSU-Ultra:* ${{ env.SUKISU_VERSION }}
-          ▫️ *APatch:* Supported
-            [Non-patch variants of Nova kernels, except Astera and Power kernel, support APatch.]
+          ▫️ *APatch:* Supported [Nova, Power-A11-A15]
+          ```
 
+          ```Information
           ▫️ *SUSFS:* v1.5.9 Supported
-          ▫️ *KPM:* Supported
-            [Nova kernels support KPM except Astera and Power kernel.]
+          ▫️ *KPM:* Supported [Nova, Power-A11-A15]
           ▫️ *Mountify:* Supported
           ▫️ *Release:* ${{ env.RELEASE_NAME }}
+          ```
 
           📥 *Download Links:*
           - GitHub Release: [${{ env.RELEASE_NAME }}](${{ env.RELEASE_URL }})
@@ -125,18 +129,20 @@ jobs:
             [Release](https://github.com/sidex15/susfs4ksu-module/releases/latest) | [Nightly](https://nightly.link/sidex15/susfs4ksu-module/workflows/build/v1.5.2+)
           - Mountify Module: [Release](https://github.com/backslashxx/mountify/releases/latest)
 
+          ```Note
           ⚠️ *Note:* There has been a variant change for KernelSU. If you are using KernelSU and have updated, please delete the manager on your device and download from release or nightly and update your manager.
 
           ⚠️ *Note:* Regardless of MIUI or AOSP. The best working for my device is Power Kernel. I recommend you to use Power Kernel variants.
           ⚠️ *Note:* Using Astera and Nova kernel is completely your choice. Test it and use the best kernel for your device.
           ⚠️ *Note:* To prevent the risk of your device becoming bootlopped after the kernel installation, please backup your current kernel before flashing the kernel.
+          ```
 
           *Please Read:*
           https://t.me/cvnertnc/218
 
           Astera Kernel by [MrErenK](https://t.me/Mr_ErenK)
-          Power Kernel by [Sai Krishna](https://t.me/Saikrishna1504)
           Nova Kernel by [Abdul7852](https://t.me/Abdul7852)
+          Power Kernel by [Sai Krishna](https://t.me/Saikrishna1504)
           KernelSU, KernelSU-Next, SukiSU-Ultra and SUSFS patches by [CEHunter ⚝](https://t.me/the_CEHunter)
 
           *Follow:* [cvnertnc](https://t.me/cvnertnc)
