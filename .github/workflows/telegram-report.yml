@@ -104,12 +104,10 @@ jobs:
           ▫️ *KernelSU:* ${{ env.KernelSU_VERSION }}
           ▫️ *KernelSU-Next:* ${{ env.KERNELSUN_VERSION }}
           ▫️ *SukiSU-Ultra:* ${{ env.SUKISU_VERSION }}
-          ▫️ *APatch:* Supported
-            [Non-patch variants of Nova kernels, except Astera and Power kernel, support APatch.]
+          ▫️ *APatch:* Supported [Nova]
 
           ▫️ *SUSFS:* v1.5.9 Supported
-          ▫️ *KPM:* Supported
-            [Nova kernels support KPM except Astera and Power kernel.]
+          ▫️ *KPM:* Supported [Nova]
           ▫️ *Mountify:* Supported
           ▫️ *Release:* ${{ env.RELEASE_NAME }}
 
@@ -135,8 +133,8 @@ jobs:
           https://t.me/cvnertnc/218
 
           Astera Kernel by [MrErenK](https://t.me/Mr_ErenK)
-          Power Kernel by [Sai Krishna](https://t.me/Saikrishna1504)
           Nova Kernel by [Abdul7852](https://t.me/Abdul7852)
+          Power Kernel by [Sai Krishna](https://t.me/Saikrishna1504)
           KernelSU, KernelSU-Next, SukiSU-Ultra and SUSFS patches by [CEHunter ⚝](https://t.me/the_CEHunter)
 
           *Follow:* [cvnertnc](https://t.me/cvnertnc)
