@@ -104,10 +104,10 @@ jobs:
           ▫️ *KernelSU:* ${{ env.KernelSU_VERSION }}
           ▫️ *KernelSU-Next:* ${{ env.KERNELSUN_VERSION }}
           ▫️ *SukiSU-Ultra:* ${{ env.SUKISU_VERSION }}
-          ▫️ *APatch:* Supported [Nova, Power-A11-A15]
+          ▫️ *APatch:* Supported [Nova]
 
           ▫️ *SUSFS:* v1.5.9 Supported
-          ▫️ *KPM:* Supported [Nova, Power-A11-A15]
+          ▫️ *KPM:* Supported [Nova]
           ▫️ *Mountify:* Supported
           ▫️ *Release:* ${{ env.RELEASE_NAME }}
 
