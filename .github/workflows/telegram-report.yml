@@ -48,7 +48,7 @@ jobs:
             rm -rf "./KernelSU"
           fi
 
-          git clone --recursive -j $(nproc) --branch master https://github.com/backslashxx/KernelSU KernelSU
+          git clone --recursive -j $(nproc) --branch main https://github.com/rsuntk/KernelSU KernelSU
 
           KernelSU_VERSION=$(git -C KernelSU describe --abbrev=0 --tags)
 
@@ -114,7 +114,7 @@ jobs:
           📥 *Download Links:*
           - GitHub Release: [${{ env.RELEASE_NAME }}](${{ env.RELEASE_URL }})
           - KernelSU Manager:
-            [Release](https://github.com/backslashxx/KernelSU/releases/${{ env.KernelSU_VERSION }}) | [Nightly](https://nightly.link/backslashxx/KernelSU/workflows/build-manager/staging/manager)
+            [Release](https://github.com/rsuntk/KernelSU/releases/${{ env.KernelSU_VERSION }}) | [Nightly](https://nightly.link/rsuntk/KernelSU/workflows/build-manager/main/manager)
           - KernelSU-Next Manager:
             [Release](https://github.com/KernelSU-Next/KernelSU-Next/releases/${{ env.KERNELSUN_VERSION }}) | [Nightly](https://nightly.link/KernelSU-Next/KernelSU-Next/workflows/build-manager-ci/next/Manager)
           - SukiSU-Ultra Manager:
