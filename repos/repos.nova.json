@@ -60,7 +60,7 @@
     },
     "withRoot": "ksu",
     "withSUSFS": true,
-    "whichSUSFS": "susfs-158",
+    "whichSUSFS": "susfs-dev",
     "withKPM": false,
     "toolchains": [
       {
