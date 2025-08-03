@@ -34,7 +34,7 @@ Also see here [`CONFIG.md`](./CONFIG.md). Hello, the CONFIG.md file is old and I
 >
 
 Manager for KernelSU users
-> [![Stable Version](https://img.shields.io/github/v/release/backslashxx/KernelSU?label=Release&logo=github)](https://github.com/backslashxx/KernelSU/releases/latest) [![Nightly Version](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/backslashxx/KernelSU/workflows/build-manager/staging/manager)
+> [![Stable Version](https://img.shields.io/github/v/release/rsuntk/KernelSU?label=Release&logo=github)](https://github.com/rsuntk/KernelSU/releases/latest) [![Nightly Version](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/rsuntk/KernelSU/workflows/build-manager/main/manager)
 
 Manager for KernelSU-Next users
 > [![Stable Version](https://img.shields.io/github/v/release/KernelSU-Next/KernelSU-Next?label=Release&logo=github)](https://github.com/KernelSU-Next/KernelSU-Next/releases/latest) [![Nightly Version](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://nightly.link/KernelSU-Next/KernelSU-Next/workflows/build-manager-ci/next/Manager)
@@ -48,7 +48,7 @@ Download and install SUSFS Module
 Download and install Mountify Module [![Mountify Module](https://img.shields.io/github/v/release/backslashxx/mountify?label=Release&logo=github)](https://github.com/backslashxx/mountify/releases/latest)
 
 ## Supported Begonia Kernels      
-| Kernels | Build | [KernelSU](https://github.com/backslashxx/kernelsu) | [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | [SUSFS](https://gitlab.com/simonpunk/susfs4ksu) | [KPM](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch) | [APatch](https://github.com/bmax121/APatch) |      
+| Kernels | Build | [KernelSU](https://github.com/rsuntk/KernelSU) | [KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) | [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | [SUSFS](https://gitlab.com/simonpunk/susfs4ksu) | [KPM](https://github.com/SukiSU-Ultra/SukiSU_KernelPatch_patch) | [APatch](https://github.com/bmax121/APatch) |      
 |---------|-------|----------|--------------|------------------------|-------|-------|--------|    
 | [Astera](https://github.com/xiaomi-begonia-dev/android_kernel_xiaomi_mt6785) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |    
 | [Power](https://github.com/Saikrishna1504/kernel_xiaomi_mt6785) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |    
@@ -59,7 +59,7 @@ Download and install Mountify Module [![Mountify Module](https://img.shields.io/
 > Many Thanks [Sidex15](https://github.com/sidex15) for all the [Bug Fixes](https://github.com/cvnertnc/Begonia-Kernel-Builder/commit/a6aad58fa292b0fab54199ab4f982c286b35cb6d)
 
 [MrErenK](https://github.com/MrErenK)  
-[backslashxx](https://github.com/backslashxx)  
+[rsuntk](https://github.com/rsuntk)  
 [rifsxd](https://github.com/rifsxd)  
 [ShirkNeko](https://github.com/ShirkNeko)  
 [Saikrishna1504](https://github.com/Saikrishna1504)  
