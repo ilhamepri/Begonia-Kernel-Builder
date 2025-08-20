@@ -117,7 +117,7 @@ jobs:
             [Release](https://github.com/rsuntk/KernelSU/releases/${{ env.KernelSU_VERSION }}) | [Nightly](https://nightly.link/rsuntk/KernelSU/workflows/build-manager/main/manager)
           - KernelSU-Next Manager:
             Original [Release](https://github.com/KernelSU-Next/KernelSU-Next/releases/${{ env.KERNELSUN_VERSION }}) | [Nightly](https://nightly.link/KernelSU-Next/KernelSU-Next/workflows/build-manager-ci/next/Manager)
-            Fork [![Nightly Version](https://img.shields.io/badge/Nightly%20Release-gray?logo=hackthebox&logoColor=fff)](https://github.com/TheWildJames/KernelSU-Next/actions)
+            Fork [Nightly](https://github.com/TheWildJames/KernelSU-Next/actions)
           - SukiSU-Ultra Manager:
             [Release](https://github.com/ShirkNeko/SukiSU-Ultra/releases/${{ env.SUKISU_VERSION }}) | [Nightly](https://nightly.link/SukiSU-Ultra/SukiSU-Ultra/workflows/build-manager/main/manager)
           - SUSFS Module: 
