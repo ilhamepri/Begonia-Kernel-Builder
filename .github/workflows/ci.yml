@@ -116,5 +116,5 @@ jobs:
           curl -X POST \
             -H "Accept: application/vnd.github.v3+json" \
             -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-            https://api.github.com/repos/cvnertnc/Begonia-Kernel-Builder/dispatches \
+            https://api.github.com/repos/ilhamepri/Begonia-Kernel-Builder/dispatches \
             -d '{"event_type": "trigger-telegram-report"}'
