@@ -1,8 +1,8 @@
-SukiSU-Ultra Commit ID: fce93170887c55f65beff7785a6f244586edfb4e
-SukiSU-Ultra Commit Date: 2026-01-12T07:05:34Z
+SukiSU-Ultra Commit ID: 51faa18fd53ab52536e9464692497d1657c1735e
+SukiSU-Ultra Commit Date: 2026-01-21T02:22:57Z
 
-KernelSU Commit ID: d09d122e3cf87d5d2f8c4a54cf2f4903b369e913
-KernelSU Commit Date: 2026-01-22T15:46:15Z
+KernelSU Commit ID: ca090a2414cce39321231dcfab35f2f0b010291d
+KernelSU Commit Date: 2026-01-24T14:18:17Z
 
 KernelSU-Next Commit ID: null
 KernelSU-Next Commit Date: null
